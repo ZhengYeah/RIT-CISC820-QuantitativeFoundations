@@ -4,4 +4,4 @@ Solutions of assignments for the course CISC-820 Quantitative-Foundations at RIT
 
 ## Thanks
 
-Many thanks to Nilesh Kumar for providing insights in [his solution](https://github.com/aizazulhaq/CISC-820-Quantitative-Foundations-RIT-Assignments/tree/master).
+Many thanks to Nilesh Kumar for providing insights in [his solutions](https://github.com/aizazulhaq/CISC-820-Quantitative-Foundations-RIT-Assignments/tree/master).
