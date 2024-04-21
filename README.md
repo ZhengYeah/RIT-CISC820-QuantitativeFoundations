@@ -1,4 +1,4 @@
-# RIT-CISC-820-Quantitative-Foundation-Assignments
+# RIT-CISC820-QuantitativeFoundation-Assignments
 
 Solutions of assignments for the course CISC-820 Quantitative-Foundations at RIT (2023 Fall semester). 
 
